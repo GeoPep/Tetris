@@ -9,3 +9,5 @@ Game was finished on 13 October 2020 by GeoPep and uploaded on GitHub https://gi
 
 I have upoaded tetris.py source code, data folder, and the windows executable.
 Data folder must be in same location with the executable.
+
+Press arrows move the pieces, press space for hard drop, pres z,x for rotation
